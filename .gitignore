@@ -1,0 +1,7 @@
+*.log
+.idea
+.history
+.DS_Store
+yarn.lock
+node_modules
+build/
